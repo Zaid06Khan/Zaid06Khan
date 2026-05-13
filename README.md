@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst & Python Developer · Toronto, Canada 🍁</h3>
 
 <p align="center">
-  I'm building projects in data analysis and automation while looking for my first role as a <strong>data analyst</strong> or <strong>Python developer</strong>.
+  I'm a first-year Business Technology Management co-op student at Toronto Metropolitan University (TMU). I'm building projects in data analysis and automation while looking for my first role as a <strong>data analyst</strong> or <strong>Python developer</strong>.
   Currently turning raw data into insights — one dataset at a time.
 </p>
 
