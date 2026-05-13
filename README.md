@@ -26,29 +26,24 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [📈 Google Trends Analysis](https://github.com/Zaid06Khan/google-trends-analysis) | CLI tool to fetch, analyze, and visualize Google Trends data. Compares keyword interest over time, by region, and surfaces rising related queries. | Python, pytrends, matplotlib, seaborn |
-| [🤖 LinkedIn Job Applicator](https://github.com/Zaid06Khan/linkedin-job-applicator) | Selenium-based automation tool that searches and applies to LinkedIn job listings based on configurable criteria. | Python, Selenium, automation |
-| [📱 Google Play Store Analysis](https://github.com/Zaid06Khan/google-play-analysis) | Exploratory data analysis of the Google Play Store dataset — ratings, categories, install trends, and pricing insights. | Python, pandas, matplotlib, seaborn |
+| Project                                                                             | Description                                                                                                                                        | Tech                                  |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [📈 Google Trends Analysis](https://github.com/Zaid06Khan/google-trends-analysis)   | CLI tool to fetch, analyze, and visualize Google Trends data. Compares keyword interest over time, by region, and surfaces rising related queries. | Python, pytrends, matplotlib, seaborn |
+| [🤖 LinkedIn Job Applicator](https://github.com/Zaid06Khan/linkedin-job-applicator) | Selenium-based automation tool that searches and applies to LinkedIn job listings based on configurable criteria.                                  | Python, Selenium, automation          |
+| [📱 Google Play Store Analysis](https://github.com/Zaid06Khan/google-play-analysis) | Exploratory data analysis of the Google Play Store dataset — ratings, categories, install trends, and pricing insights.                            | Python, pandas, matplotlib, seaborn   |
 
 ---
 
 ## 📚 Currently Learning
 
 - **SQL** — writing queries for real-world datasets
+- **Python** — building data analysis and automation projects
+- **Java** — learning object-oriented programming fundamentals
 - **NumPy** — deeper numerical computing for data pipelines
 - **Plotly / Dash** — interactive charts and dashboards
 - **Web scraping** — BeautifulSoup + Requests for data collection
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaid06Khan&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid06Khan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
@@ -58,7 +53,7 @@
   <a href="mailto:zk3473893@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/Zaid06Khan">
+  <a href="www.linkedin.com/in/zaid-khan-a03050387">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Zaid06Khan">
