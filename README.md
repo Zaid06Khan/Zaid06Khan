@@ -31,6 +31,7 @@
 | [📈 Google Trends Analysis](https://github.com/Zaid06Khan/google-trends-analysis)   | CLI tool to fetch, analyze, and visualize Google Trends data. Compares keyword interest over time, by region, and surfaces rising related queries. | Python, pytrends, matplotlib, seaborn |
 | [🤖 LinkedIn Job Applicator](https://github.com/Zaid06Khan/linkedin-job-applicator) | Selenium-based automation tool that searches and applies to LinkedIn job listings based on configurable criteria.                                  | Python, Selenium, automation          |
 | [📱 Google Play Store Analysis](https://github.com/Zaid06Khan/google-play-analysis) | Exploratory data analysis of the Google Play Store dataset — ratings, categories, install trends, and pricing insights.                            | Python, pandas, matplotlib, seaborn   |
+| [🐍 OG Snake Game](https://github.com/Zaid06Khan/OG-Snake-Game)                     | Classic Snake game built with Python's Turtle module. Grow the snake, dodge the walls, beat your score — Day 20 of 100 Days of Code.             | Python, Turtle                        |
 
 ---
 
