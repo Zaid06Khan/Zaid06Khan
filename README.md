@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-  <em>Open to entry-level Data Analyst and Python Developer opportunities in Toronto (and remote).</em>
+  <em>Open to entry-level Data Analyst/Eng, Software Developer, and Webapp Developer opportunities.</em>
 </p>
