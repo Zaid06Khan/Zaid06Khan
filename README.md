@@ -32,6 +32,7 @@
 | [🤖 LinkedIn Job Applicator](https://github.com/Zaid06Khan/linkedin-job-applicator) | Selenium-based automation tool that searches and applies to LinkedIn job listings based on configurable criteria.                                  | Python, Selenium, automation          |
 | [📱 Google Play Store Analysis](https://github.com/Zaid06Khan/google-play-analysis) | Exploratory data analysis of the Google Play Store dataset — ratings, categories, install trends, and pricing insights.                            | Python, pandas, matplotlib, seaborn   |
 | [🐍 OG Snake Game](https://github.com/Zaid06Khan/OG-Snake-Game)                     | Classic Snake game built with Python's Turtle module. Grow the snake, dodge the walls, beat your score.                                            | Python, Turtle                        |
+| [🏓 Pong Game](https://github.com/Zaid06Khan/pong-game)                             | Classic two-player Pong game with paddle controls, ball physics, speed increases, and a scoreboard.                                               | Python, Turtle                        |
 
 ---
 
