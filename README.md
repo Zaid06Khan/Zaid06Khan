@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Zaid Khan 👋</h1>
-<h3 align="center">Aspiring Data Analyst & Software Developer · Toronto, Canada 🍁</h3>
+<h3 align="center">Aspiring Software Developer and AI Engineer · Toronto, Canada 🍁</h3>
 
 <p align="center">
 Third-year Business Technology Management student at Toronto Metropolitan University, passionate about building things at the intersection of tech and business.
-I work with Python, JavaScript, SQL, Java, and HTML/CSS to build web apps, automate workflows, and analyze data. I have hands-on experience from a software development co-op, personal projects in data analysis and web scraping, and I build and deliver websites for real clients on the side.
-Currently looking for co-op and internship opportunities in software development, data analytics, or web application development.
+I work with Python, JavaScript, SQL, Java, and HTML/CSS to build web apps, automate workflows, and analyze data. I have hands-on experience from a software development internship, personal projects in data analysis and AI Engineering, and I build and deliver websites for real clients on the side.
+
 </p>
 
 <br/>
