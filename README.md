@@ -64,6 +64,7 @@ Full-stack resume scorer that rates a resume against 6 real ATS platforms — Wo
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [AI Receptionist Platform](https://github.com/Zaid06Khan/ai-salon-receptionist) | Productized AI voice agent answering inbound calls for local service businesses 24/7 — hours, pricing, service questions, and callback capture, with per-client onboarding in under 15 minutes. | Twilio, ElevenLabs, Claude, Python |
 | [Cellular Automata Engine](https://github.com/Zaid06Khan/cellular-automata-engine) · [Live](https://cellular-automata-engine-re7bnaxicljse67poxpjch.streamlit.app/) | 2D cellular automata simulator (Game of Life, HighLife, Seeds) on a toroidal grid, with vectorized neighbour counting benchmarked against a naive implementation. | Python, NumPy, SciPy, Streamlit |
 | [Personal Portfolio](https://github.com/Zaid06Khan/portfolio) · [Live](https://zkhan.vercel.app/) | Portfolio site with an experience timeline, interactive project cards, skills grid, and certifications. | Next.js, TypeScript, Tailwind CSS |
 | [Habit Tracker App](https://github.com/Zaid06Khan/habit-tracker-app) | Cross-platform mobile habit tracker with daily streaks, challenge mode, local push reminders, and on-device storage. | React Native, Expo, TypeScript |
